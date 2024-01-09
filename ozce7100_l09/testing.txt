@@ -1,0 +1,70 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 9 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2023-11-12
+ *
+ * -------------------------------------
+ */
+      0  1  2  3  4  5
+    ------------------
+  0|  0  0  0  0  0  0
+  1|  0  0  0  0  0  0
+  2|  0  0  0  0  0  0
+  3|  0  0  0  0  0  0
+  4|  0  0  0  0  0  0
+  5|  0  0  0  0  0  0
+
+      0  1  2  3  4  5
+    ------------------
+  0|  0  0  0  0  0  0
+  1|  0  0  1  0  0  0
+  2|  0  1  0  0  0  0
+  3|  0  0  0  2  1  1
+  4|  0  0  0  1  0  1
+  5|  0  0  0  1  1  0
+
+Vertex 0 is connected to 0 vertices.
+Vertex 1 is connected to 1 vertices.
+Vertex 2 is connected to 1 vertices.
+Vertex 3 is connected to 4 vertices.
+Vertex 4 is connected to 2 vertices.
+Vertex 5 is connected to 2 vertices.
+
+Vertex 0 neighbours: {}
+Vertex 1 neighbours: {2}
+Vertex 2 neighbours: {1}
+Vertex 3 neighbours: {3, 4, 5}
+Vertex 4 neighbours: {3, 5}
+Vertex 5 neighbours: {3, 4}
+
+Add a new edge: {3, 2}
+Added: true
+      0  1  2  3  4  5
+    ------------------
+  0|  0  0  0  0  0  0
+  1|  0  0  1  0  0  0
+  2|  0  1  0  1  0  0
+  3|  0  0  1  2  1  1
+  4|  0  0  0  1  0  1
+  5|  0  0  0  1  1  0
+
+Add a new edge: {3, 5}
+Added: false
+      0  1  2  3  4  5
+    ------------------
+  0|  0  0  0  0  0  0
+  1|  0  0  1  0  0  0
+  2|  0  1  0  1  0  0
+  3|  0  0  1  2  1  1
+  4|  0  0  0  1  0  1
+  5|  0  0  0  1  1  0
+
+Breadth-first Traversal: 5
+{5, 3, 4, 2, 1}
+
+Depth-first Traversal: 5
+{5, 4, 3, 2, 1}

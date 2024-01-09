@@ -1,0 +1,42 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * -------------------------------------
+ * @author emre ozcelik, 210807100, ozce7100@mylaurier.ca
+ *
+ * @version 2023-09-07
+ *
+ * -------------------------------------
+ */
+
+test 1: 
+Sqr ft to acres: 2.30
+Time to mow lawn: 20 minutes
+Date conversion: 19621025
+time: 3 seconds
+Hypotenuse: 5.00
+Sum of even numbers till 100: 2550
+Partial harmonic sum till 4: 2.08
+Years to reach population: 25
+
+Test 2: 
+
+Sqr ft to acres: 2.30
+Time to mow lawn: 20 minutes
+Date conversion: 19621025
+time: 3 seconds
+Hypotenuse: 5.00
+Sum of even numbers till 100: 2550
+Partial harmonic sum till 4: 2.08
+Years to reach population: 25
+
+test 3:
+
+Sqr ft to acres: 2.30
+Time to mow lawn: 20 minutes
+Date conversion: 19621025
+time: 3 seconds
+Hypotenuse: 5.00
+Sum of even numbers till 100: 2550
+Partial harmonic sum till 4: 2.08
+Years to reach population: 25

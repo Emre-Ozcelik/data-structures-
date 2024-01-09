@@ -1,0 +1,35 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 7 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2023-10-28
+ *
+ * -------------------------------------
+ */
+
+(base) Emres-MacBook-Pro:l07_given emre$ ./L07_GIVEN
+empty: true
+full:  false
+count: 0
+Insert test values:
+  count: 8, height: 4, items:
+11
+7
+6
+9
+8
+15
+12
+18
+
+empty: false
+full:  false
+count: 8
+leaf_count: 4
+one_child_count: 1
+two_child_count: 3
+Destroy the BST
+(base) Emres-MacBook-Pro:l07_given emre$ 

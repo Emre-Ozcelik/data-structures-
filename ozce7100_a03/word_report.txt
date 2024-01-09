@@ -1,0 +1,15 @@
+word stats:value
+line count:3
+total word count:13
+distinct word count:9
+
+distinct words:frequency
+this:2
+is:2
+the:2
+first:1
+test:2
+second:1
+cp264:1
+data:1
+structures:1

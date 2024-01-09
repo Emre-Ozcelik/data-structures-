@@ -1,0 +1,14 @@
+/*
+ -------------------------------------
+ @file  testing.txt
+ Lab 1 Sample Test Results
+ -------------------------------------
+ Author:  
+ ID:      
+ Email:   
+ Version: 2023-08-30
+ -------------------------------------
+ */
+
+// command line
+// results printed
